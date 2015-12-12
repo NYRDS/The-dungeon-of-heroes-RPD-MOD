@@ -1,0 +1,9 @@
+{ texture = "mage1.png",
+width = 12, 
+height = 15,
+ idle = { fps = 1, looped = true, frames = [0,0,1] },
+ run = { fps = 1, looped = true, frames = [18] }, attack = { fps = 11, looped = false, frames = [13,14,15] }, 
+die = { fps = 11, looped = false, frames = [8,9,10,11,12,11] }
+,
+levitating = true
+}
