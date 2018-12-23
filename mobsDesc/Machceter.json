@@ -1,0 +1,20 @@
+{
+  "defenseSkill": 6,
+  "attackSkill": 4,
+  "exp": 2,
+  "maxLvl": 15,
+  "dmgMin": 17,
+  "dmgMax": 17,
+  "dr": 2,
+  "ht": 15,
+
+  "name": "Мушкетёр",
+  "name_objective": 
+"Мушкетёра",
+  "description": "Этот человек одет поистине шикарно: латный доспех, покрытый золотом, мушкет, явно ручной работы, и сапоги, которым позавидывал бы даже городской житель.",
+  "gender": "masculine",
+  "spriteDesc": "spritesDesc/Machketer.json",    "attackRange": 32, 
+  "walkingType": "NORMAL",
+"canBePet"		: true, 
+  "scriptFile": "scripts/mobs/Bam"
+}

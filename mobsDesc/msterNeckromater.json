@@ -1,0 +1,21 @@
+{
+  "defenseSkill": 4,
+  "attackSkill": 15,
+  "exp": 4,
+  "maxLvl": 9,
+  "dmgMin": 5,
+  "dmgMax": 10,
+  "dr": 3,
+  "ht": 10,
+  "name": "Лич",
+  "name_objective": 
+"NecromancerNPC_objective",
+  "description": "Лич- это некромант, достигший вершины своего мастерства.",
+  "gender": "masculine",
+  "spriteDesc": "spritesDesc/masterNecromancer.json",
+  "attackRange": 32, 
+  "walkingType": "NORMAL",
+"canBePet"		: false, 
+  "scriptFile": "scripts/mobs/Поднять-мертвеца"
+ 
+}

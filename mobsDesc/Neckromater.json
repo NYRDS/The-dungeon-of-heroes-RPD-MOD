@@ -1,0 +1,18 @@
+{
+  "defenseSkill": 5,
+  "attackSkill": 12,
+  "exp": 3,
+  "maxLvl": 10,
+  "dmgMin": 2,
+  "dmgMax": 6,
+  "dr": 5,
+  "ht": 15,
+  "name": "Некромант",
+  "name_objective":"Некроманта",
+  "description": "Искатель приключений, который пришёл сюда, навернека, по той же причине, по которой здесь ты.",
+  "gender": "masculine",
+  "spriteDesc": "spritesDesc/Necromancer.json",
+  "walkingType": "NORMAL",
+"canBePet"		: false, 
+  "scriptFile": "scripts/mobs/summon"
+}

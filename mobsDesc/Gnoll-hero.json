@@ -1,0 +1,20 @@
+{
+  "defenseSkill": 3,
+  "attackSkill": 6,
+  "exp": 4,
+  "maxLvl": 7,
+  "dmgMin": 3,
+  "dmgMax": 10,
+  "dr": 2,
+  "ht": 20,
+
+  "name": "Гнолл",
+  "name_objective": 
+"Гнолла",
+  "description": "Это существо напоминает большую собаку, стоящую на задних лапах, у которой есть руки, в которых она держит томагавк.",
+  "gender": "masculine",
+  "spriteDesc": "spritesDesc/Gnoll_hero.json",   "attackRange": 2, 
+
+  "walkingType": "NORMAL",
+"canBePet"		: true
+}

@@ -1,0 +1,9 @@
+{ texture = "gnoll.png",
+width = 12, 
+height = 15,
+  "zapEffect" : "GnollTamahawk",
+ idle = { fps = 1, looped = true, frames = [0,0,1] },
+ run = { fps = 14, looped = true, frames = [4, 5, 6] },
+ attack = { fps = 11, looped = false, frames = [2, 3] }, 
+die = { fps = 11, looped = false, frames = [7, 8, 9, 10] }
+}

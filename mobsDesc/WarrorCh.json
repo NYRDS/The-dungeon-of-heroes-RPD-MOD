@@ -1,0 +1,20 @@
+{
+  "defenseSkill": 10,
+  "attackSkill": 20,
+  "exp": 10,
+  "maxLvl": 32,
+  "dmgMin": 17,
+  "dmgMax": 40,
+  "dr": 2,
+  "ht": 60,
+
+  "name": "Воин",
+  "name_objective": 
+"Война",
+  "description": "Этот воин носит кольцо шипов на своей руке.",
+  "gender": "masculine",
+  "spriteDesc": "spritesDesc/Lither.json",
+  "walkingType": "NORMAL",
+"canBePet"		: true, 
+  "scriptFile": "scripts/mobs/Mirror"
+}
